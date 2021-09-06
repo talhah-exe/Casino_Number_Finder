@@ -1,2 +1,2 @@
-# Casino_Number_Finder
-Learning C++ nowadays so I just made this, give it a look.
+# Learning_C++
+Learning C++ nowadays so I just made these, give it a look.
